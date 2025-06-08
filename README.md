@@ -30,8 +30,8 @@ Step 1: Clone the repository
 Step 2: 
 bash
 Copy code
-git clone https://github.com/your-username/tamil-recipe-generator.git
-cd tamil-recipe-generator
+git clone 
+cd reciepechatbot_app
 Install dependencies
 
 Step 3:
